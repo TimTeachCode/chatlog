@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   preserveAspectRatio="none"
+   x="0px"
+   y="0px"
+   width="80"
+   height="80"
+   viewBox="0 0 80 80"
+   id="svg682"
+   sodipodi:docname="overview.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview682"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs508">
+    <linearGradient
+       id="Gradient_39"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="-40"
+       x2="0"
+       y2="40"
+       spreadMethod="pad">
+      <stop
+         offset="0%"
+         stop-color="#7BAAEB"
+         id="stop79" />
+      <stop
+         offset="100%"
+         stop-color="#6C75E9"
+         id="stop80" />
+    </linearGradient>
+    <linearGradient
+       id="Gradient_40"
+       gradientUnits="userSpaceOnUse"
+       x1="-0.25"
+       y1="-40.25"
+       x2="-0.25"
+       y2="3.25"
+       spreadMethod="pad">
+      <stop
+         offset="0%"
+         stop-color="#95C2F0"
+         id="stop81" />
+      <stop
+         offset="100%"
+         stop-color="#6B8EE9"
+         id="stop82" />
+    </linearGradient>
+    <g
+       id="Symbol_44_0_Layer0_0_FILL">
+      <path
+         fill="url(#Gradient_39)"
+         stroke="none"
+         d="M 40,-26 Q 39.75,-36 29.45,-36 H -29.5 q -10.25,0 -10.5,10 V 29.95 Q -39.75,40 -29.5,40 H 29.45 Q 39.75,40 40,29.95 Z"
+         id="path303" />
+      <path
+         fill="url(#Gradient_40)"
+         stroke="none"
+         d="m 29.45,-36 q 10.3,0 10.55,10 v -3.5 Q 40,-40 29.45,-40 H -29.5 Q -40,-40 -40,-29.5 v 3.5 q 0.25,-10 10.5,-10 z"
+         id="path304" />
+    </g>
+    <g
+       id="Symbol_99_0_Layer0_0_MEMBER_0_FILL">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m -15,-8.2 q -4.15,0 -7.05,2.95 Q -25,-2.3 -25,1.8 q 0,4.15 2.95,7.05 2.9,2.95 7.05,2.95 4.15,0 7.05,-2.95 Q -5,5.95 -5,1.8 -5,-2.3 -7.95,-5.25 -10.85,-8.2 -15,-8.2 Z"
+         id="path426" />
+    </g>
+    <g
+       id="Symbol_99_0_Layer0_0_MEMBER_1_FILL">
+      <path
+         fill="#3d465d"
+         stroke="none"
+         d="m -15,-4.2 q -2.45,0 -4.2,1.8 -1.8,1.75 -1.8,4.2 0,2.5 1.8,4.25 1.75,1.75 4.2,1.75 2.5,0 4.25,-1.75 Q -9,4.3 -9,1.8 -9,-0.65 -10.75,-2.4 -12.5,-4.2 -15,-4.2 Z"
+         id="path427" />
+    </g>
+    <g
+       id="Symbol_99_0_Layer0_1_MEMBER_0_FILL">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 15,-8.2 q -4.15,0 -7.05,2.95 Q 5,-2.3 5,1.8 5,5.95 7.95,8.85 10.85,11.8 15,11.8 19.15,11.8 22.05,8.85 25,5.95 25,1.8 25,-2.3 22.05,-5.25 19.15,-8.2 15,-8.2 Z"
+         id="path428" />
+    </g>
+    <g
+       id="Symbol_99_0_Layer0_1_MEMBER_1_FILL">
+      <path
+         fill="#3d465d"
+         stroke="none"
+         d="m 15,-4.2 q -2.45,0 -4.2,1.8 Q 9,-0.65 9,1.8 9,4.3 10.8,6.05 12.55,7.8 15,7.8 17.5,7.8 19.25,6.05 21,4.3 21,1.8 21,-0.65 19.25,-2.4 17.5,-4.2 15,-4.2 Z"
+         id="path429" />
+    </g>
+    <g
+       id="Symbol_99_0_Layer0_2_FILL">
+      <path
+         fill="#3d465d"
+         stroke="none"
+         d="m -27.65,-15.5 q -0.85,0.2 -1.2,0.9 -0.45,0.7 -0.25,1.55 l 1.05,3.85 q 0.2,0.85 0.95,1.2 0.65,0.45 1.5,0.25 l 19.3,-5.2 q 0.8,-0.2 1.25,-0.95 0.4,-0.65 0.2,-1.5 l -1.05,-3.85 q -0.2,-0.85 -0.9,-1.25 -0.75,-0.4 -1.55,-0.2 z"
+         id="path430" />
+    </g>
+    <g
+       id="Symbol_99_0_Layer0_3_FILL">
+      <path
+         fill="#3d465d"
+         stroke="none"
+         d="m 8.35,-20.7 q -0.8,-0.2 -1.55,0.2 -0.7,0.4 -0.9,1.25 l -1.05,3.85 q -0.2,0.85 0.2,1.5 0.45,0.75 1.25,0.95 l 19.3,5.2 q 0.85,0.2 1.5,-0.25 0.75,-0.35 0.95,-1.2 l 1.05,-3.85 q 0.2,-0.85 -0.25,-1.55 -0.35,-0.7 -1.2,-0.9 z"
+         id="path431" />
+    </g>
+    <g
+       id="Symbol_99_0_Layer0_4_FILL">
+      <path
+         fill="#3d465d"
+         stroke="none"
+         d="M 9.35,17.3 Q 8.8,16.85 8.2,16.4 4.8,13.8 0,13.8 q -4.9,0 -8.35,2.6 0,0.05 -0.05,0.05 -0.65,0.5 -1.1,1.05 -0.55,0.6 -0.5,1.45 0.05,0.8 0.7,1.35 0.6,0.55 1.45,0.5 0.8,-0.05 1.35,-0.65 0.25,-0.3 0.55,-0.55 2.45,-1.8 5.95,-1.8 3.4,0 5.8,1.8 l 0.05,0.05 Q 6.3,19.95 6.7,20.3 7.3,20.85 8.15,20.8 8.95,20.75 9.5,20.15 10.05,19.5 10,18.7 9.95,17.85 9.35,17.3 Z"
+         id="path432" />
+    </g>
+  </defs>
+  <g
+     id="blue_body_square"
+     transform="translate(40,40)">
+    <g
+       id="g528">
+      <use
+         xlink:href="#Symbol_44_0_Layer0_0_FILL"
+         id="use528" />
+    </g>
+  </g>
+  <g
+     id="face_i-4"
+     transform="translate(40.123424,41.40504)">
+    <g
+       id="g629-9">
+      <use
+         xlink:href="#Symbol_99_0_Layer0_0_MEMBER_0_FILL"
+         id="use629-0" />
+    </g>
+    <g
+       id="g630-4">
+      <use
+         xlink:href="#Symbol_99_0_Layer0_0_MEMBER_1_FILL"
+         id="use630-3" />
+    </g>
+    <g
+       id="g631-1">
+      <use
+         xlink:href="#Symbol_99_0_Layer0_1_MEMBER_0_FILL"
+         id="use631-4" />
+    </g>
+    <g
+       id="g632-7">
+      <use
+         xlink:href="#Symbol_99_0_Layer0_1_MEMBER_1_FILL"
+         id="use632-1" />
+    </g>
+    <g
+       id="g633-0">
+      <use
+         xlink:href="#Symbol_99_0_Layer0_2_FILL"
+         id="use633-1" />
+    </g>
+    <g
+       id="g634-8">
+      <use
+         xlink:href="#Symbol_99_0_Layer0_3_FILL"
+         id="use634-1" />
+    </g>
+    <g
+       id="g635-3">
+      <use
+         xlink:href="#Symbol_99_0_Layer0_4_FILL"
+         id="use635-7" />
+    </g>
+  </g>
+</svg>

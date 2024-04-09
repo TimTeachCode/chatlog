@@ -1,0 +1,46 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model ChatLog {
+  id               String @id @unique
+  reportedUniqueId String
+  reportedName     String
+  reporterUniqueId String
+  reporterName     String
+
+  messages Message[]
+
+  createdAt DateTime @default(dbgenerated("CURRENT_TIMESTAMP")) @db.Timestamp
+  updatedAt DateTime @default(dbgenerated("CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP")) @db.Timestamp
+}
+
+model Message {
+  id       Int      @id @default(autoincrement())
+  issuer   Issuer   @default(SYSTEM)
+  uuid     String?
+  name     String?
+  message  String
+  time     DateTime @default(dbgenerated("CURRENT_TIMESTAMP")) @db.Timestamp
+  reported Boolean  @default(false)
+  reporter Boolean  @default(false)
+
+  chatLogId String
+  chatLog   ChatLog @relation(fields: [chatLogId], references: [id])
+}
+
+enum Issuer {
+  SYSTEM
+  USER
+}

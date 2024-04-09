@@ -1,0 +1,4 @@
+name: ChatLog-BungeeCord
+version: 1.0-SNAPSHOT
+main: com.timteachcode.chatlog.ChatLogPlugin
+author: TimTeachCode

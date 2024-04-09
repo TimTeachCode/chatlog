@@ -1,0 +1,12 @@
+url = "http://localhost:5173/%s"
+
+[db_credentials]
+  hostname = "localhost"
+  port = 3306
+  database = "chatlog"
+  username = "chatlog"
+  password = "password"
+
+[message_store]
+  expiration = 15
+  max = 50
